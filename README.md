@@ -114,8 +114,8 @@ I love helping the tech world grow! Here’s how I pitch in:
 ## 📊 My GitHub Pulse
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=th3hero&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3hero&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alok-xarterian&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alok-xarterian&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ## 🔥 What Drives Me
